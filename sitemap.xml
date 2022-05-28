@@ -126,6 +126,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vimbook.beauhilton.com/cardiology/main/</loc>
+         <lastmod>2022-05-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vimbook.beauhilton.com/critical-care/critical-care-abcdef-a2f-bundle/</loc>
          <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
