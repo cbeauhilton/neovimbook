@@ -111,6 +111,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vimbook.beauhilton.com/cardiology/cardiology-shock/</loc>
+         <lastmod>2022-05-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vimbook.beauhilton.com/cardiology/cardiology-syncope/</loc>
          <lastmod>2022-05-29</lastmod>
          <changefreq>daily</changefreq>
@@ -122,11 +127,6 @@
     </url>
     <url>
          <loc>https://vimbook.beauhilton.com/cardiology/cardiology-wide-complex-tachycardias/</loc>
-         <lastmod>2022-05-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://vimbook.beauhilton.com/cardiology/main/</loc>
          <lastmod>2022-05-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
