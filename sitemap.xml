@@ -1176,6 +1176,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vimbook.beauhilton.com/radiology/radiology-cxr/</loc>
+         <lastmod>2022-06-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://vimbook.beauhilton.com/radiology/radiology-kub/</loc>
+         <lastmod>2022-06-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vimbook.beauhilton.com/radiology/radiology-radiology-exams-diagnosis/</loc>
          <lastmod>2022-06-13</lastmod>
          <changefreq>daily</changefreq>
