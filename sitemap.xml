@@ -551,6 +551,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vimbook.beauhilton.com/hepatology/hepatology-hyponatremia-cirrhosis/</loc>
+         <lastmod>2022-06-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vimbook.beauhilton.com/hepatology/hepatology-liver-transplantation/</loc>
          <lastmod>2022-06-21</lastmod>
          <changefreq>daily</changefreq>
@@ -582,11 +587,6 @@
     </url>
     <url>
          <loc>https://vimbook.beauhilton.com/hepatology/hepatology-upper-gi-bleed-cirrhosis/</loc>
-         <lastmod>2022-06-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://vimbook.beauhilton.com/hepatology/hyponatremia-cirrhosis/</loc>
          <lastmod>2022-06-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
