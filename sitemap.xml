@@ -586,11 +586,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vimbook.beauhilton.com/hospital-medicine/hospital-medicine-mobility-and-hospital-therapy/</loc>
-         <lastmod>2022-06-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://vimbook.beauhilton.com/hospital-medicine/hospital-medicine-telemetry/</loc>
          <lastmod>2022-06-22</lastmod>
          <changefreq>daily</changefreq>
@@ -602,11 +597,6 @@
     </url>
     <url>
          <loc>https://vimbook.beauhilton.com/hospital-medicine/hospital-medicine-wounds/</loc>
-         <lastmod>2022-06-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://vimbook.beauhilton.com/hospital-medicine/main/</loc>
          <lastmod>2022-06-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
