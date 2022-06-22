@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vimbook.beauhilton.com/appendices/appendices-door-codes/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vimbook.beauhilton.com/appendices/appendices-rotations-va/</loc>
          <lastmod>2022-06-22</lastmod>
          <changefreq>daily</changefreq>
@@ -37,11 +42,6 @@
     </url>
     <url>
          <loc>https://vimbook.beauhilton.com/appendices/appendices-va-phone-numbers/</loc>
-         <lastmod>2022-06-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://vimbook.beauhilton.com/appendices/appendices-vumc-phone-directory/</loc>
          <lastmod>2022-06-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
