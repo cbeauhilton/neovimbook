@@ -951,7 +951,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vimbook.beauhilton.com/ophthalmology/ophthalmology-retinal-detachment/</loc>
+         <lastmod>2022-06-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vimbook.beauhilton.com/ophthalmology/ophthalmology-taking-a-good-history/</loc>
+         <lastmod>2022-06-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://vimbook.beauhilton.com/ophthalmology/ophthalmology-wilsonsdisease/</loc>
          <lastmod>2022-06-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -962,6 +972,11 @@
     </url>
     <url>
          <loc>https://vimbook.beauhilton.com/ophthalmology/opthalmology-orbital-and-preseptal-cellulitis/</loc>
+         <lastmod>2022-06-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://vimbook.beauhilton.com/ophthalmology/opthalmology-uveitis/</loc>
          <lastmod>2022-06-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
