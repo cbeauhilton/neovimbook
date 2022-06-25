@@ -401,7 +401,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vimbook.beauhilton.com/hematology-oncology/hematologyoncology-chemotherapy-toxicity/</loc>
+         <loc>https://vimbook.beauhilton.com/hematology-oncology/hematologyoncology-cart/</loc>
          <lastmod>2022-06-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -481,6 +481,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vimbook.beauhilton.com/hematology-oncology/hematologyoncology-therapy-toxicities/</loc>
+         <lastmod>2022-06-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vimbook.beauhilton.com/hematology-oncology/hematologyoncology-thrombocytopenia/</loc>
          <lastmod>2022-06-25</lastmod>
          <changefreq>daily</changefreq>
@@ -492,11 +497,6 @@
     </url>
     <url>
          <loc>https://vimbook.beauhilton.com/hematology-oncology/hematologyoncology-vte/</loc>
-         <lastmod>2022-06-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://vimbook.beauhilton.com/hematology-oncology/main/</loc>
          <lastmod>2022-06-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -891,11 +891,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vimbook.beauhilton.com/ophthalmology/main/</loc>
-         <lastmod>2022-06-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://vimbook.beauhilton.com/ophthalmology/ophthalmology-approach-anisocoria/</loc>
          <lastmod>2022-06-25</lastmod>
          <changefreq>daily</changefreq>
@@ -946,12 +941,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vimbook.beauhilton.com/ophthalmology/ophthalmology-fungemia/</loc>
+         <lastmod>2022-06-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vimbook.beauhilton.com/ophthalmology/ophthalmology-glaucoma/</loc>
          <lastmod>2022-06-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vimbook.beauhilton.com/ophthalmology/ophthalmology-optic-neuritis/</loc>
+         <lastmod>2022-06-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://vimbook.beauhilton.com/ophthalmology/ophthalmology-orbital-and-preseptal-cellulitis/</loc>
          <lastmod>2022-06-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -971,22 +976,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vimbook.beauhilton.com/ophthalmology/ophthalmology-uveitis/</loc>
+         <lastmod>2022-06-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vimbook.beauhilton.com/ophthalmology/ophthalmology-wilsonsdisease/</loc>
-         <lastmod>2022-06-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://vimbook.beauhilton.com/ophthalmology/opthalmology-fungemia/</loc>
-         <lastmod>2022-06-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://vimbook.beauhilton.com/ophthalmology/opthalmology-orbital-and-preseptal-cellulitis/</loc>
-         <lastmod>2022-06-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://vimbook.beauhilton.com/ophthalmology/opthalmology-uveitis/</loc>
          <lastmod>2022-06-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
