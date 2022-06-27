@@ -986,11 +986,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vimbook.beauhilton.com/outpatient-medicine/main/</loc>
-         <lastmod>2022-06-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://vimbook.beauhilton.com/outpatient-medicine/outpatient-medicine-asthma/</loc>
          <lastmod>2022-06-27</lastmod>
          <changefreq>daily</changefreq>
@@ -1206,12 +1201,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vimbook.beauhilton.com/pulmonary/airway-clearance/</loc>
+         <loc>https://vimbook.beauhilton.com/pulmonary/pulmonary-acute-asthma-exacerbation/</loc>
          <lastmod>2022-06-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vimbook.beauhilton.com/pulmonary/pulmonary-acute-asthma-exacerbation/</loc>
+         <loc>https://vimbook.beauhilton.com/pulmonary/pulmonary-airway-clearance/</loc>
          <lastmod>2022-06-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -1302,11 +1297,6 @@
     </url>
     <url>
          <loc>https://vimbook.beauhilton.com/radiology/radiology-radiology-exams-diagnosis/</loc>
-         <lastmod>2022-06-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://vimbook.beauhilton.com/rheumatology/main/</loc>
          <lastmod>2022-06-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
